@@ -18,6 +18,9 @@ TY BTech Practical Exam - Deep Learning and MLOps Laboratory
     .venv\Scripts\activate
     #for linux/mac os
     source .venv/Scripts/activate
+
+    pip install -r requirements.txt
+    ```
 4. To run DLL Code use the Jupyter Notebook and run all the cells
 5. To run the MLOps Code run the python code using:
    ```bash
